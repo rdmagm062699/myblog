@@ -13,6 +13,7 @@ paginate = 3
   GitHubUser = "rdmagm062699"
   LinkedInUser = "rob-miller-9a85762"
   TwitterUser = "rdmatwork"
+  RSS = true
 
   # These are parameters used for indieweb identity. You should set these along
   # with the above email/social network parameters.
