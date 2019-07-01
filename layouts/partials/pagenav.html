@@ -1,0 +1,11 @@
+<nav>
+    {{ $currentPage := . }}
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="{{ .Site.BaseURL }}">Home</a>
+        </div>
+        <div class="page-nav-item">
+            <a href="{{ .Site.BaseURL }}/about">About</a>
+        </div>
+    </div>
+</nav>
