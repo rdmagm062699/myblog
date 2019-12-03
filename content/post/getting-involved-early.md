@@ -2,6 +2,8 @@
 title: "Getting Involved Early"
 author: "Rob Miller"
 date: 2019-12-03
+originalfor: "HI Digital Solutions"
+originalurl: "https://www.hidigital.solutions/blog/getting-involved-early/"
 ---
 
 A while back I read a [great article](https://blog.prototypr.io/the-messy-shift-to-starting-together-61088323b896) that outlines both the challenges and advantages of getting all necessary parties involved in a project early, including developers and other “tech” people.  The content resonated with me, since my team was in the midst of this exact situation — we had started to participate in the “initiation” phase of projects.  I am a software engineer and most of my team are also software engineers, my viewpoint here is getting people like us involved early.  
